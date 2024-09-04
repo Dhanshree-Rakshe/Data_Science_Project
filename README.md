@@ -4,7 +4,7 @@ Within this project tried to find some interesting insights and to explore the d
 
 ## Tasks 
 
-Task 1: Reading and Inspection
+Task 1: Reading and Inspection  \n
 Task 2: Cleaning the Data
 Task 3: Data Analysis 
 
